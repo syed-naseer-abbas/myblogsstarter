@@ -1,6 +1,7 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
+title: All about Tech
+date: 2021-02-24T07:05:26.270Z
+description: All about Tech
 ---
 
 Wow! I love blogging so much already.
