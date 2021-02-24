@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Telecom Tech Insights with Experts`,
+    title: `Telecom Tech Insights`,
     author: {
       name: `Syed Naseer Abbas`,
       summary: `who lives and works in Pakistan.`,
