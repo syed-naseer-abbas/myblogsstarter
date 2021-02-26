@@ -5,8 +5,8 @@ module.exports = {
       name: `Syed Naseer Abbas`,
       summary: `who lives and works in Pakistan.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Tech Expert.`,
+    siteUrl: `https://tech-talk-with-naseer.netlify.app/`,
     social: {
       twitter: `NaseerAbbas05`,
     },
