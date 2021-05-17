@@ -1,6 +1,6 @@
 ---
 title: 5G
-date: 2021-05-01T10:49:24.862Z
+date: 2021-05-17T11:16:41.096Z
 description: 5G Architecture
 ---
 Standards Evolution
