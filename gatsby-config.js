@@ -5,7 +5,7 @@ module.exports = {
       name: `Syed Naseer Abbas`,
       summary: `who lives and works in Pakistan.`,
     },
-    description: `Tech Expert.`,
+    description: `Telecom Tech Expert.`,
     siteUrl: `https://tech-talk-with-naseer.netlify.app/`,
     social: {
       twitter: `NaseerAbbas05`,
