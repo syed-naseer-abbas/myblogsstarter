@@ -1,6 +1,6 @@
 ---
 title: GSM and WCDMA Call Flows
-date: 2021-05-01T10:45:08.300Z
+date: 2021-09-10T17:35:21.139Z
 description: GSM and WCDMA Call Flows
 ---
 * [Basic GSM 2G Intra MSC Call](https://youtu.be/JvvmDIjCPto)
