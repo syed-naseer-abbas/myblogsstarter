@@ -5,8 +5,10 @@ description: GSM and WCDMA Call Flows
 ---
 * [Basic GSM 2G Intra MSC Call](https://youtu.be/JvvmDIjCPto)
 
-***https://youtu.be/JvvmDIjCPto***
 
+* [Basic GSM 2G Intra MSC Call with detailed Description of Call Messages - CM Service Request](https://youtu.be/P94LwwQtSQc)
+
+  [](https://youtu.be/P94LwwQtSQc)
 * Basic MT Call
 
 Coming soon
