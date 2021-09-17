@@ -1,12 +1,22 @@
 ---
 title: GSM and WCDMA Call Flows
-date: 2021-05-01T10:45:08.300Z
+date: 2021-09-11T15:10:11.992Z
 description: GSM and WCDMA Call Flows
 ---
-Basic MO Call
+* [Basic GSM 2G Intra MSC Call](https://youtu.be/JvvmDIjCPto)
 
-Basic MT Call
 
-Basic MO SMS
+* [Basic GSM 2G Intra MSC Call with detailed Description of Call Messages - CM Service Request](https://youtu.be/P94LwwQtSQc)
 
-Basic MT SMS
+  [](https://youtu.be/P94LwwQtSQc)
+* Basic MT Call
+
+Coming soon
+
+* Basic MO SMS
+
+Coming soon
+
+* Basic MT SMS
+
+Coming soon
