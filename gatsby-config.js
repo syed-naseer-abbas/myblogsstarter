@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Telecom Tech Insights`,
+    title: `Telecom & Technology Insights with Trainings`,
     author: {
       name: `Syed Naseer Abbas`,
       summary: `who lives and works in Pakistan.`,
     },
-    description: `Telecom Tech Expert.`,
+    description: `Telecom Tech Expert. GSM, WCDMA, LTE, 2G, 3G, 4G, 5G, Mobile Networks Architecture`,
     siteUrl: `https://tech-talk-with-naseer.netlify.app/`,
     social: {
       twitter: `NaseerAbbas05`,
