@@ -1,5 +1,5 @@
 ---
-title: WCDMA Call Flows - Made Easy to understand
+title: WCDMA Call Flows - Made Super Easy to understand
 date: 2021-11-27T07:15:51.410Z
 description: WCDMA Call Flows - Made Easy to understand
 ---
