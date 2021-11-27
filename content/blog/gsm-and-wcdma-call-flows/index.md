@@ -1,5 +1,5 @@
 ---
-title: GSM and WCDMA Call Flows
+title: GSM Call Flows
 date: 2021-09-22T10:32:12.298Z
 description: GSM Call Flows
 ---
