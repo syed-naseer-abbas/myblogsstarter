@@ -3,6 +3,10 @@ title: 5G
 date: 2021-05-17T11:16:41.096Z
 description: All about 5G
 ---
+[What is 5G?](https://youtu.be/mprL8-K0rXo)
+
+[Services offered by 5G](https://youtu.be/ka7KNlzWuz0)
+
 Standards Evolution
 
 5G Performance Requirements
