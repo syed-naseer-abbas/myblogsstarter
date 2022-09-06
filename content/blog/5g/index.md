@@ -1,6 +1,6 @@
 ---
 title: 5G
-date: 2021-05-17T11:16:41.096Z
+date: 2022-09-06T12:08:23.242Z
 description: All about 5G
 ---
 [What is 5G?](https://youtu.be/mprL8-K0rXo)
